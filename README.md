@@ -40,7 +40,7 @@ This suggests a classic "sell the news" phenomenon, where a surge in positive ne
 │   ├── 01_EDA.ipynb
 │   ├── 02_Technical_Analysis.ipynb
 │   └── 03_Correlation_Analysis.ipynb
-└── ... (other project folders)
+└── 
 ```
 
 ## Setup and Usage
